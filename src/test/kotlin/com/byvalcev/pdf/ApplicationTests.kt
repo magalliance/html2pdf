@@ -1,4 +1,4 @@
-package com.example.pdf
+package com.byvalcev.pdf
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

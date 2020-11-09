@@ -1,6 +1,6 @@
-package com.example.pdf.config
+package com.byvalcev.pdf.config
 
-import com.example.pdf.config.properties.PdfProperties
+import com.byvalcev.pdf.config.properties.PdfProperties
 import org.springframework.boot.context.properties.EnableConfigurationProperties
 import org.springframework.context.annotation.Configuration
 

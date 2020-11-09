@@ -1,4 +1,4 @@
-package com.example.pdf.config.properties
+package com.byvalcev.pdf.config.properties
 
 import org.springframework.boot.context.properties.ConfigurationProperties
 import org.springframework.context.annotation.Configuration

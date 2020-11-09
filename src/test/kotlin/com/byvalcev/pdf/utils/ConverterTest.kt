@@ -1,4 +1,4 @@
-package com.example.pdf.utils
+package com.byvalcev.pdf.utils
 
 import org.junit.jupiter.api.Assertions
 import org.junit.jupiter.api.Test

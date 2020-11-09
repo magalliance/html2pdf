@@ -1,4 +1,4 @@
-package com.example.pdf.web
+package com.byvalcev.pdf.web
 
 import org.springframework.context.annotation.Bean
 import org.springframework.http.MediaType

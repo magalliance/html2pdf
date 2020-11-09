@@ -1,10 +1,10 @@
-package com.example.pdf.utils
+package com.byvalcev.pdf.utils
 
 import com.github.moneytostr.MoneyToStr
 import com.itextpdf.html2pdf.*
 import com.itextpdf.html2pdf.resolver.font.DefaultFontProvider
 import com.itextpdf.layout.font.FontProvider
-import com.example.pdf.config.properties.PdfProperties
+import com.byvalcev.pdf.config.properties.PdfProperties
 import java.io.*
 import org.springframework.core.io.InputStreamResource
 import org.springframework.stereotype.Service

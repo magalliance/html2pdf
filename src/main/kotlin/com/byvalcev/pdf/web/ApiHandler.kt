@@ -1,6 +1,6 @@
-package com.example.pdf.web
+package com.byvalcev.pdf.web
 
-import com.example.pdf.utils.Converter
+import com.byvalcev.pdf.utils.Converter
 import org.springframework.http.MediaType
 import org.springframework.stereotype.Component
 import org.springframework.web.reactive.function.server.ServerRequest
